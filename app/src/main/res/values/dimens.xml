@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top">10sp</dimen>
+    <dimen name="left">8sp</dimen>
+    <dimen name="corner_radius_cardview">4sp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+</resources>

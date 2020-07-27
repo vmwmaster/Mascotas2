@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnAbout"
+        android:title="Acerca de Mascotas"
+        >
+    </item>
+
+    <item
+        android:id="@+id/mFavoritas"
+        android:title="Favoritas"
+        android:orderInCategory="102"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_star_24"    />
+</menu>
